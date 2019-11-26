@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:7:5-26:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-beta3.aar\7c324ee2f7e287defa1d76bb67185e25\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-beta3.aar\7c324ee2f7e287defa1d76bb67185e25\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\jetified-volley-1.1.1.aar\d2cd7619d573e7db545fc97b33d7771a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\jetified-volley-1.1.1.aar\d2cd7619d573e7db545fc97b33d7771a\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\300a3dade977b840c595818d6db6c5ca\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\300a3dade977b840c595818d6db6c5ca\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\c2ce7624d6f6312005891384922a4f49\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\c2ce7624d6f6312005891384922a4f49\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\300a3dade977b840c595818d6db6c5ca\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:8:9-38
+	android:usesCleartextTraffic
+		INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:15:9-63
+manifest
+ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-beta3.aar\7c324ee2f7e287defa1d76bb67185e25\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\ccce3e4f9319be0928e919cd0678b8e0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\jetified-volley-1.1.1.aar\d2cd7619d573e7db545fc97b33d7771a\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\32c935c22b0822edbc1eb01e567ac34c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\0224b9428998d33098411c805d2d69da\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\36ee3bdfff7a33ae745a28ff5096093d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\aee4b677f4c26086262e259eebbccf9c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\8e9ef28a7c19bcfefc6643165add250d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\7149308624c2b62614c8d01149617dc7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\d25fba876d5effccaef39dd634e62a3b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\f0c1c223ea8a453f9129e8ce63f6a4d4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\f6aa89a05879422c0028ccdd2a96d49a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\2b6cb94b6854df4339742ed57c1b0be3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\b0848ef85fb6510643b2d6d66398c6aa\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7555a3e4ddc6f31a788250fdb49a20b7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\0ebcf2b812077159fde8e97ea2a8d5aa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\a50b7b8fb5f0522092fb452ffe41da79\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\de1326f817e9b4483b306d61c5e05154\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\300a3dade977b840c595818d6db6c5ca\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\c2ce7624d6f6312005891384922a4f49\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\40b79d098ee03367aa97cd750cc636e6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\69bd412374042d9405b67aaca538134b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-sdk
+INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-beta3.aar\7c324ee2f7e287defa1d76bb67185e25\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-beta3.aar\7c324ee2f7e287defa1d76bb67185e25\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\ccce3e4f9319be0928e919cd0678b8e0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\ccce3e4f9319be0928e919cd0678b8e0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\jetified-volley-1.1.1.aar\d2cd7619d573e7db545fc97b33d7771a\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\jetified-volley-1.1.1.aar\d2cd7619d573e7db545fc97b33d7771a\AndroidManifest.xml:7:5-43
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\32c935c22b0822edbc1eb01e567ac34c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\32c935c22b0822edbc1eb01e567ac34c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\0224b9428998d33098411c805d2d69da\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\0224b9428998d33098411c805d2d69da\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\36ee3bdfff7a33ae745a28ff5096093d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\36ee3bdfff7a33ae745a28ff5096093d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\aee4b677f4c26086262e259eebbccf9c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\aee4b677f4c26086262e259eebbccf9c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\8e9ef28a7c19bcfefc6643165add250d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\8e9ef28a7c19bcfefc6643165add250d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\7149308624c2b62614c8d01149617dc7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\7149308624c2b62614c8d01149617dc7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\d25fba876d5effccaef39dd634e62a3b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\d25fba876d5effccaef39dd634e62a3b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\f0c1c223ea8a453f9129e8ce63f6a4d4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\f0c1c223ea8a453f9129e8ce63f6a4d4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\f6aa89a05879422c0028ccdd2a96d49a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\f6aa89a05879422c0028ccdd2a96d49a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\2b6cb94b6854df4339742ed57c1b0be3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\2b6cb94b6854df4339742ed57c1b0be3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\b0848ef85fb6510643b2d6d66398c6aa\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\b0848ef85fb6510643b2d6d66398c6aa\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7555a3e4ddc6f31a788250fdb49a20b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7555a3e4ddc6f31a788250fdb49a20b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\0ebcf2b812077159fde8e97ea2a8d5aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\0ebcf2b812077159fde8e97ea2a8d5aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\a50b7b8fb5f0522092fb452ffe41da79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\a50b7b8fb5f0522092fb452ffe41da79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\de1326f817e9b4483b306d61c5e05154\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\de1326f817e9b4483b306d61c5e05154\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\300a3dade977b840c595818d6db6c5ca\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\300a3dade977b840c595818d6db6c5ca\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\c2ce7624d6f6312005891384922a4f49\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\c2ce7624d6f6312005891384922a4f49\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\40b79d098ee03367aa97cd750cc636e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\40b79d098ee03367aa97cd750cc636e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\69bd412374042d9405b67aaca538134b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Senai\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\69bd412374042d9405b67aaca538134b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml
+activity#com.example.senai.api_conexao_android.MainActivity
+ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.senai.api_conexao_android.TesteActivity
+ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:23:19-48
+activity#com.example.senai.api_conexao_android.InserirActivity
+ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:24:9-53
+	android:name
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:24:19-50
+activity#com.example.senai.api_conexao_android.BuscarActivity
+ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from C:\Users\Senai\Desktop\Gustavo\atividade\API_Conexao_Android-master\app\src\main\AndroidManifest.xml:25:19-49
